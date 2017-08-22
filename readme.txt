@@ -1,5 +1,5 @@
 # GitTest
-Create a branch!
+Create an branch!
 Create a fixed branch!
 sdfasf
 
